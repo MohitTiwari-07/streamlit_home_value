@@ -1,8 +1,5 @@
 #Streamlit url is
-
 #https://apphomevalue-msdnjqm65gg7ojxuenuwix.streamlit.app/
-
-
 
 import streamlit as st
 import pandas as pd
